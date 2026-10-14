@@ -1,0 +1,81 @@
+[
+  {
+    "id": 540,
+    "title": "Overwatch 2",
+    "thumbnail": "https://www.freetogame.com/g/540/thumbnail.jpg",
+    "status": "Live",
+    "short_description": "A team-based action game set in the optimistic future.",
+    "description": "Overwatch 2 is a hero shooter where players split into two teams and select a hero from a roster of 35+ characters. Heroes are split into three roles: Tank, Damage, and Support.",
+    "game_url": "https://www.freetogame.com/open/overwatch-2",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "Blizzard Entertainment",
+    "developer": "Blizzard Entertainment",
+    "release_date": "2022-10-04",
+    "freetogame_profile_url": "https://www.freetogame.com/overwatch-2",
+    "minimum_system_requirements": {
+      "os": "Windows 10 64-bit",
+      "processor": "Intel Core i3 or AMD Phenom X3 8650",
+      "memory": "6 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 600 series",
+      "storage": "50 GB"
+    },
+    "screenshots": [
+      {"id": 1, "image": "https://www.freetogame.com/g/540/overwatch-2-1.jpg"},
+      {"id": 2, "image": "https://www.freetogame.com/g/540/overwatch-2-2.jpg"},
+      {"id": 3, "image": "https://www.freetogame.com/g/540/overwatch-2-3.jpg"}
+    ]
+  },
+  {
+    "id": 516,
+    "title": "PUBG: BATTLEGROUNDS",
+    "thumbnail": "https://www.freetogame.com/g/516/thumbnail.jpg",
+    "status": "Live",
+    "short_description": "Land on strategic locations, loot weapons and supplies.",
+    "description": "PUBG: BATTLEGROUNDS is a battle royale shooter that pits 100 players against each other in a struggle for survival.",
+    "game_url": "https://www.freetogame.com/open/pubg",
+    "genre": "Shooter",
+    "platform": "PC (Windows)",
+    "publisher": "KRAFTON, Inc.",
+    "developer": "KRAFTON, Inc.",
+    "release_date": "2022-01-12",
+    "freetogame_profile_url": "https://www.freetogame.com/pubg",
+    "minimum_system_requirements": {
+      "os": "Windows 10 64-bit",
+      "processor": "Intel Core i5-4430 / AMD FX-6300",
+      "memory": "8 GB RAM",
+      "graphics": "NVIDIA GeForce GTX 960 2GB",
+      "storage": "40 GB"
+    },
+    "screenshots": [
+      {"id": 4, "image": "https://www.freetogame.com/g/516/pubg-1.jpg"},
+      {"id": 5, "image": "https://www.freetogame.com/g/516/pubg-2.jpg"}
+    ]
+  },
+  {
+    "id": 475,
+    "title": "Genshin Impact",
+    "thumbnail": "https://www.freetogame.com/g/475/thumbnail.jpg",
+    "status": "Live",
+    "short_description": "An open-world action RPG set in Teyvat.",
+    "description": "Step into Teyvat, a vast world teeming with life and flowing with elemental energy. You and your sibling arrived here from another world.",
+    "game_url": "https://www.freetogame.com/open/genshin-impact",
+    "genre": "ARPG",
+    "platform": "PC (Windows)",
+    "publisher": "COGNOSPHERE PTE. LTD.",
+    "developer": "miHoYo",
+    "release_date": "2020-09-28",
+    "freetogame_profile_url": "https://www.freetogame.com/genshin-impact",
+    "minimum_system_requirements": {
+      "os": "Windows 7 SP1 64-bit",
+      "processor": "Intel Core i5 or equivalent",
+      "memory": "8 GB RAM",
+      "graphics": "NVIDIA GeForce GT 1030",
+      "storage": "30 GB"
+    },
+    "screenshots": [
+      {"id": 7, "image": "https://www.freetogame.com/g/475/genshin-impact-1.jpg"},
+      {"id": 8, "image": "https://www.freetogame.com/g/475/genshin-impact-2.jpg"}
+    ]
+  }
+]
