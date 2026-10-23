@@ -7,8 +7,7 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 ## 👤 Informasi Mahasiswa
 * **Nama:** Muhammad Abdul Rochim
 * **NIM:** 240605110179
-* **Kelas:** Praktikum Sistem Informasi (F) / Kelas C
-* **Program Studi:** Sistem Informasi - UIN Maulana Malik Ibrahim Malang
+* **Program Studi:** Teknik Informatika 2024 - UIN Maulana Malik Ibrahim Malang
 
 ---
 
