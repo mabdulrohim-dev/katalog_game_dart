@@ -1,4 +1,4 @@
-# 🎮 Steam Game Store - Katalog Game Flutter (UTS Pemrograman Mobile)
+# 🎮 Katalog Game Flutter (UTS Pemrograman Mobile)
 
 Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajikan informasi game populer, filter kategori, spesifikasi sistem minimum (*Minimum System Requirements*), serta galeri *screenshot*. Didevelop untuk memenuhi tugas **Ujian Tengah Semester (UTS) Pemrograman Mobile**.
 
