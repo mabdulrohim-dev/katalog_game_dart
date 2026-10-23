@@ -12,7 +12,7 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 ---
 
 ## ✨ Fitur Utama
-- **🎨 Steam Dark Neon Theme:** Antarmuka modern bertema *Midnight Navy* (`#0E141D`) dengan aksen *Electric Cyan Glow* (`#00D2FF`).
+- **🎨 Dark Neon Theme:** Antarmuka modern bertema *Midnight Navy* (`#0E141D`) dengan aksen *Electric Cyan Glow* (`#00D2FF`).
 - **🔍 Real-Time Search Bar:** Pencarian game secara langsung berdasarkan judul atau genre di halaman Beranda.
 - **🏷️ Filter Kategori/Genre:** Tombol filter interaktif untuk kategori *Menembak (Shooter)*, *Balap (Racing)*, *Strategi (Strategy)*, dan *Sport (Sports)*.
 - **🔥 Game Populer Carousel:** Slider horizontal untuk menampilkan koleksi game unggulan.
@@ -25,13 +25,20 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 - ## 📱 Tampilan Aplikasi
 
 ### Halaman Beranda
-![Beranda](screenshots/home.png)
+![Beranda](<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 36" src="https://github.com/user-attachments/assets/0f21254e-c854-4f67-8518-096406adbd87" />
+)
 
-### Pencarian & Filter Kategori
-![Search](screenshots/search.png)
+### Pencarian
+![Search](<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 35" src="https://github.com/user-attachments/assets/742f9202-a737-4f75-a1fa-62add7e8a4b9" />
+)
+
+### Filter Kategori
+![Filter Kategori](<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 35 (1)" src="https://github.com/user-attachments/assets/d0765b0e-7395-4a08-b4e5-2dc8b1d06185" />
+)
 
 ### Detail Game & System Requirements
-![Detail](screenshots/detail.png)
+![Detail](<img width="610" height="1356" alt="WhatsApp Image 2026-10-18 at 19 08 25" src="https://github.com/user-attachments/assets/1f13db4d-8b74-413f-b128-41752ac36a87" />
+)
 
 ---
 
