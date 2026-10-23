@@ -23,6 +23,16 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 - **🖼️ Galeri Screenshot Interaktif:** Scroll horizontal gambar tangkapan layar game (*in-game screenshot*).
 - **📖 Expandable Description:** Teks deskripsi game yang dapat dipotong dan diperluas menggunakan `ReadMoreText`.
 - **⚡ Fallback Network/Offline:** Pengambilan data live via *FreeToGame API* dengan *fallback* otomatis ke `assets/data/games.json` jika koneksi terputus.
+- ## 📱 Tampilan Aplikasi
+
+### Halaman Beranda
+![Beranda](screenshots/home.png)
+
+### Pencarian & Filter Kategori
+![Search](screenshots/search.png)
+
+### Detail Game & System Requirements
+![Detail](screenshots/detail.png)
 
 ---
 
