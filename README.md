@@ -1,17 +1,43 @@
-# katalog_game
+# 🎮 Steam Game Store - Katalog Game Flutter (UTS Pemrograman Mobile)
 
-A new Flutter project.
+Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajikan informasi game populer, filter kategori, spesifikasi sistem minimum (*Minimum System Requirements*), serta galeri *screenshot*. Didevelop untuk memenuhi tugas **Ujian Tengah Semester (UTS) Pemrograman Mobile**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 👤 Informasi Mahasiswa
+* **Nama:** Muhammad Abdul Rochim
+* **NIM:** 240605110179
+* **Kelas:** Praktikum Sistem Informasi (F) / Kelas C
+* **Program Studi:** Sistem Informasi - UIN Maulana Malik Ibrahim Malang
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Fitur Utama
+- **🎨 Steam Dark Neon Theme:** Antarmuka modern bertema *Midnight Navy* (`#0E141D`) dengan aksen *Electric Cyan Glow* (`#00D2FF`).
+- **🔍 Real-Time Search Bar:** Pencarian game secara langsung berdasarkan judul atau genre di halaman Beranda.
+- **🏷️ Filter Kategori/Genre:** Tombol filter interaktif untuk kategori *Menembak (Shooter)*, *Balap (Racing)*, *Strategi (Strategy)*, dan *Sport (Sports)*.
+- **🔥 Game Populer Carousel:** Slider horizontal untuk menampilkan koleksi game unggulan.
+- **📋 Game Terbaru List:** Daftar vertikal game terbaru yang dilengkapi detail singkat dan tombol navigasi langsung.
+- **📱 Halaman Katalog Lengkap:** Menampilkan seluruh koleksi game menggunakan `ListView.builder`.
+- **💻 Detail & Minimum System Requirements:** Informasi rinci spesifikasi hardware minimum (OS, Processor, Memory, Graphics, Storage).
+- **🖼️ Galeri Screenshot Interaktif:** Scroll horizontal gambar tangkapan layar game (*in-game screenshot*).
+- **📖 Expandable Description:** Teks deskripsi game yang dapat dipotong dan diperluas menggunakan `ReadMoreText`.
+- **⚡ Fallback Network/Offline:** Pengambilan data live via *FreeToGame API* dengan *fallback* otomatis ke `assets/data/games.json` jika koneksi terputus.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🏗️ Struktur Arsitektur (MVVM)
+Proyek ini disusun secara modular mengikuti pola **Model-View-ViewModel (MVVM)**:
+
+```text
+lib/
+├── model/
+│   ├── game.dart          # Class model data utama game
+│   └── detailgame.dart    # Class model detail game, requirements, & screenshot
+├── viewmodel/
+│   └── fetchgame.dart     # Service HTTP API & pengolahan fallback JSON lokal
+├── view/
+│   ├── home.dart          # Halaman Beranda (Search & Category Filter)
+│   ├── list_game.dart     # Halaman Koleksi Katalog Lengkap
+│   └── detail.dart        # Halaman Detail Game & System Requirements
+└── main.dart              # Entry point & Konfigurasi Named Routes
