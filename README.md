@@ -27,21 +27,24 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 ---
 ### Halaman Beranda
 <p align="center">
-<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 36" src="https://github.com/user-attachments/assets/e2b62341-6fac-4a31-b8c8-ec2ce5245b80" />
+<img width="220" height="489" alt="WhatsApp Image 2026-10-14 at 15 28 36" src="https://github.com/user-attachments/assets/e2b62341-6fac-4a31-b8c8-ec2ce5245b80" />
 
 
 ---
 ### Pencarian
-(<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 35" src="https://github.com/user-attachments/assets/742f9202-a737-4f75-a1fa-62add7e8a4b9" />
-)
+<p align="center">
+<img width="220" height="489" alt="WhatsApp Image 2026-10-14 at 15 28 35" src="https://github.com/user-attachments/assets/742f9202-a737-4f75-a1fa-62add7e8a4b9" />
+
 ---
 ### Filter Kategori
-(<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 35 (1)" src="https://github.com/user-attachments/assets/d0765b0e-7395-4a08-b4e5-2dc8b1d06185" />
-)
+<p align="center">
+<img width="220" height="489" alt="WhatsApp Image 2026-10-14 at 15 28 35 (1)" src="https://github.com/user-attachments/assets/d0765b0e-7395-4a08-b4e5-2dc8b1d06185" />
+
 ---
 ### Detail Game & System Requirements
-(<img width="610" height="1356" alt="WhatsApp Image 2026-10-18 at 19 08 25" src="https://github.com/user-attachments/assets/1f13db4d-8b74-413f-b128-41752ac36a87" />
-)
+<p align="center">
+<img width="220" height="489" alt="WhatsApp Image 2026-10-18 at 19 08 25" src="https://github.com/user-attachments/assets/1f13db4d-8b74-413f-b128-41752ac36a87" />
+
 
 ---
 
