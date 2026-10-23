@@ -27,9 +27,8 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 ---
 ### Halaman Beranda
 <p align="center">
-  <img src=<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 36" src="https://github.com/user-attachments/assets/9df44f6c-5b47-4022-83d5-ba4fd0c81257" />
- width="250" />
-</p>
+<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 36" src="https://github.com/user-attachments/assets/e2b62341-6fac-4a31-b8c8-ec2ce5245b80" />
+
 
 ---
 ### Pencarian
