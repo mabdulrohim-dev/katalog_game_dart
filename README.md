@@ -22,20 +22,21 @@ Aplikasi katalog game interaktif berbasis **Flutter** dan **Dart** yang menyajik
 - **🖼️ Galeri Screenshot Interaktif:** Scroll horizontal gambar tangkapan layar game (*in-game screenshot*).
 - **📖 Expandable Description:** Teks deskripsi game yang dapat dipotong dan diperluas menggunakan `ReadMoreText`.
 - **⚡ Fallback Network/Offline:** Pengambilan data live via *FreeToGame API* dengan *fallback* otomatis ke `assets/data/games.json` jika koneksi terputus.
+---
 - ## 📱 Tampilan Aplikasi
-
+---
 ### Halaman Beranda
 (<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 36" src="https://github.com/user-attachments/assets/0f21254e-c854-4f67-8518-096406adbd87" />
 )
-
+---
 ### Pencarian
 (<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 35" src="https://github.com/user-attachments/assets/742f9202-a737-4f75-a1fa-62add7e8a4b9" />
 )
-
+---
 ### Filter Kategori
 (<img width="610" height="1356" alt="WhatsApp Image 2026-10-14 at 15 28 35 (1)" src="https://github.com/user-attachments/assets/d0765b0e-7395-4a08-b4e5-2dc8b1d06185" />
 )
-
+---
 ### Detail Game & System Requirements
 (<img width="610" height="1356" alt="WhatsApp Image 2026-10-18 at 19 08 25" src="https://github.com/user-attachments/assets/1f13db4d-8b74-413f-b128-41752ac36a87" />
 )
